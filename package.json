@@ -1,0 +1,21 @@
+{
+  "name": "nodeServer",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kurtbartholomew/nodeRoutes.git"
+  },
+  "author": "Kurt Bartholomew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurtbartholomew/nodeRoutes/issues"
+  },
+  "dependencies": {
+    "express": "~4.11.2"
+  }
+}
