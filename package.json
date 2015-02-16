@@ -17,5 +17,9 @@
   },
   "dependencies": {
     "express": "~4.11.2"
+  },
+  "devDependencies": {
+    "supertest": "~0.15.0",
+    "mocha": "~2.1.0"
   }
 }
