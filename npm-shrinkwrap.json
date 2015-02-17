@@ -267,6 +267,10 @@
           "resolved": "https://registry.npmjs.org/nan/-/nan-1.5.3.tgz"
         }
       }
+    },
+    "ejs": {
+      "version": "2.2.4",
+      "from": "ejs@"
     }
   }
 }
