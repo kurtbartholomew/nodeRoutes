@@ -33,7 +33,7 @@ describe('Listing cities on /cities', function() {
 
   it('Returns an HTML format', function(done) {
     request(app)
-      .app('/')
+      .get('/')
       .expect('Content-Type', /html/, done);
   });
 
